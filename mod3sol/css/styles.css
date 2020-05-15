@@ -1,0 +1,49 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'helvetica' , sans-serif; 
+}
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: 'Lora' , serif;
+	color: #555c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+section{
+	background-color: #25f362;
+}
+section>h3{
+	color: black;
+}
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a{
+	color: #951c49;
+	text-align: center;
+}
+#nav-list a:hover{
+	background: #e7e7e7;
+}
+#nav-list a span{
+	font-size: 1.8em;
+}
+li{
+	background-color: #f6b319; 
+}
